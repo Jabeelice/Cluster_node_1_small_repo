@@ -1,0 +1,13 @@
+{
+  "owner": "jabee",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "INTERNAL",
+  "taskType": "WAIT",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "waitDuration": "PT5S",
+    "waitMode": "FOR"
+  }
+}
